@@ -9,9 +9,7 @@
 
 ```diff
 + token = "토큰"
-- channel = "인증채널 ID"
-+ log = "인증로그 ID"
-- gmsg =  '상태메세지', '1', '2', '3', '4', '5'
+# channel = "인증채널 ID"
 ```
 
 ```py
